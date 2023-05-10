@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/links": "pages/api/links.js",
+  "/links/[id]": "pages/links/[id].js",
+  "/links/new": "pages/links/new.js",
+  "/links/complete": "pages/links/complete.js",
+  "/intro": "pages/intro.js",
+  "/": "pages/index.js",
+  "/en/404": "pages/en/404.html",
+  "/ko/404": "pages/ko/404.html",
+  "/ms/404": "pages/ms/404.html",
+  "/tr/404": "pages/tr/404.html",
+  "/en/500": "pages/en/500.html",
+  "/ko/500": "pages/ko/500.html",
+  "/ms/500": "pages/ms/500.html",
+  "/tr/500": "pages/tr/500.html"
+}
